@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yallanubaria.app",
+    "sha256_cert_fingerprints": ["F9:50:FE:E4:B4:36:B8:0F:C0:36:BC:63:27:75:58:7C:11:99:25:A1:8B:5F:D8:11:AE:18:D2:B1:4E:7F:74:94"]
+  }
+}]
